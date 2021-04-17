@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Weather App made with React Native",
+    "githubUrl": "https://github.com/junghyuun/weather-app"
   }
 }
